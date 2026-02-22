@@ -1,0 +1,4 @@
+TransactionID,AccountNumber,Amount,Merchant,Timestamp,Status
+TXN-9948,****1234,45.50,Starbucks,2026-02-20T08:30:00Z,Cleared
+TXN-9949,****5678,1200.00,Apple Store,2026-02-20T09:15:00Z,Pending
+TXN-9950,****9012,15.75,Uber,2026-02-20T10:05:00Z,Cleared
